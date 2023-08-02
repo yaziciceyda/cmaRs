@@ -49,7 +49,8 @@ summary(classification.model)
 Note that, the classification argument is set as TRUE here which indicates a binary classification model. Moreover, the degree argument is used as 1 which is its default value indicating a main effect model. This model is constructed by using only continuous variable in the data set, age. Similar to the previous example, the **summary** function presents the details of the model.
 
 
-
+## Licensing
+cmaRs is licensed for public/open source use under the GNU General Public License, Version 2 (GPLv2).
 
 
 
